@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.banner {
+    background-color: #4CAF50; /* Цвет фона баннера */
+    color: white; /* Цвет текста */
+    padding: 50px; /* Отступы внутри баннера */
+    text-align: center;
+    border-radius: 10px; /* Скругленные углы */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Тень */
+}
